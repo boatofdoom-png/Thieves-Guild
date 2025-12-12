@@ -1,0 +1,16 @@
+2025/12/12-18:38:32.054 3aa4 Recovering log #8
+2025/12/12-18:38:32.054 3aa4 Level-0 table #10: started
+2025/12/12-18:38:32.061 3aa4 Level-0 table #10: 51724 bytes OK
+2025/12/12-18:38:32.080 3aa4 Delete type=0 #8
+2025/12/12-18:38:32.080 3aa4 Delete type=3 #7
+2025/12/12-18:39:52.260 6a68 Level-0 table #13: started
+2025/12/12-18:39:52.261 6a68 Level-0 table #13: 0 bytes OK
+2025/12/12-18:39:52.264 6a68 Delete type=0 #11
+2025/12/12-18:39:52.280 6a68 Manual compaction at level-0 from '!actors!0pEpKnMGPAmt79kw' @ 72057594037927935 : 1 .. '!actors.items.effects!t7H3rloXwGcLKgOo.z817Et9IPt6qHawH.dnd5espellchange' @ 0 : 0; will stop at '!actors.items.effects!t7H3rloXwGcLKgOo.z817Et9IPt6qHawH.dnd5espellchange' @ 13 : 1
+2025/12/12-18:39:52.280 6a68 Compacting 2@0 + 0@1 files
+2025/12/12-18:39:52.288 6a68 Generated table #14@0: 42 keys, 53327 bytes
+2025/12/12-18:39:52.288 6a68 Compacted 2@0 + 0@1 files => 53327 bytes
+2025/12/12-18:39:52.292 6a68 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/12/12-18:39:52.292 6a68 Delete type=2 #5
+2025/12/12-18:39:52.292 6a68 Delete type=2 #10
+2025/12/12-18:39:52.292 6a68 Manual compaction at level-0 from '!actors.items.effects!t7H3rloXwGcLKgOo.z817Et9IPt6qHawH.dnd5espellchange' @ 13 : 1 .. '!actors.items.effects!t7H3rloXwGcLKgOo.z817Et9IPt6qHawH.dnd5espellchange' @ 0 : 0; will stop at (end)
