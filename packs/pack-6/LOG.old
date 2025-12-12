@@ -1,7 +1,0 @@
-2025/12/12-14:48:10.602 2360 Recovering log #15
-2025/12/12-14:48:10.613 2360 Delete type=0 #15
-2025/12/12-14:48:10.613 2360 Delete type=3 #14
-2025/12/12-14:49:31.510 51a4 Level-0 table #19: started
-2025/12/12-14:49:31.510 51a4 Level-0 table #19: 0 bytes OK
-2025/12/12-14:49:31.514 51a4 Delete type=0 #17
-2025/12/12-14:49:31.521 51a4 Manual compaction at level-0 from '!scenes!rImpRgS3TvewCO9O' @ 72057594037927935 : 1 .. '!scenes.walls!rImpRgS3TvewCO9O.ydx4E5Uk7cpw4JJm' @ 0 : 0; will stop at (end)
