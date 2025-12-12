@@ -1,7 +1,0 @@
-2025/12/12-14:48:10.682 2360 Recovering log #15
-2025/12/12-14:48:10.693 2360 Delete type=0 #15
-2025/12/12-14:48:10.693 2360 Delete type=3 #14
-2025/12/12-14:49:31.537 51a4 Level-0 table #19: started
-2025/12/12-14:49:31.537 51a4 Level-0 table #19: 0 bytes OK
-2025/12/12-14:49:31.541 51a4 Delete type=0 #17
-2025/12/12-14:49:31.541 51a4 Manual compaction at level-0 from '!journal!fiyLobWuvyFekCm1' @ 72057594037927935 : 1 .. '!journal.pages!fiyLobWuvyFekCm1.vQy1rhKD6ZsTQ1uK' @ 0 : 0; will stop at (end)
