@@ -1,0 +1,106 @@
+{
+  "id": "cartorium-thieves-guild",
+  "title": "Thieves Guild",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "url": "www.patreon.com/cartorium",
+  "flags": {
+    "canUpload": true 
+  },
+  "manifest": "https://github.com/boatofdoom-png/Cartorium/blob/5ffac088c8a0cfaf6da2d0acbf4becb374af59bc/module.json",
+  "download": 
+    
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Adventure",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-2",
+      "label": "NPC's",
+      "path": "packs/pack-2",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-3",
+      "label": "Documents",
+      "path": "packs/pack-3",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-4",
+      "label": "Music & SFX",
+      "path": "packs/pack-4",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-5",
+      "label": "Items",
+      "path": "packs/pack-5",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-6",
+      "label": "Map",
+      "path": "packs/pack-6",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-7",
+      "label": "Macros",
+      "path": "packs/pack-7",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Cartorium",
+      "url": "Patreon.com/Cartorium",
+      "discord": "Cartorium",
+      "flags": {}
+    },
+    {
+      "name": "Bone Grindz",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
